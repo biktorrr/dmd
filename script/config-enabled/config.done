@@ -1,0 +1,13 @@
+/* Generated file
+   Keep track of installed config files
+*/
+
+file('debug.pl','c:/users/victor/cliopatria/config-available',1404199895).
+file('config.pl','c:/users/victor/cliopatria/config-available',1404199895).
+file('store.pl','c:/users/victor/cliopatria/config-available',1404199895).
+file('network.pl','c:/users/victor/cliopatria/config-available',1404199895).
+file('winpath.pl','c:/users/victor/cliopatria/config-available',1404199895).
+file('zlib.pl','c:/users/victor/cliopatria/config-available',1404199895).
+file('pengines.pl','c:/users/victor/cliopatria/config-available',1404199895).
+file('skos.pl','cpack/skos/config-available',1404199952).
+file('xmlrdf.pl','cpack/xmlrdf/config-available',1404199953).
