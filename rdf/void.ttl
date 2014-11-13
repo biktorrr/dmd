@@ -15,8 +15,8 @@
 <dmd_scans>
 a void:Dataset ;
 		a lib:CloudNode ;
-        lib:source dive: ;
-        dc:title "Links to original scans as provided by the DMD project" ;
+        lib:source dss: ;
+        dc:title "Links to original scans as provided by the Diepere Maritieme Data project" ;
 		owl:versionInfo "0.1" ;
                 void:dataDump
                 <dongeradeel.ttl>,
