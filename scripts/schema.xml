@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<Fotonummer>1</Fotonummer>
+		<Prioriteit>hoog</Prioriteit>
+		<Inhoud>asdasd</Inhoud>
+		<Linken_aan>3</Linken_aan>
+		<Datum>1023</Datum>
+		<Opmerking>Opmerking</Opmerking>
+	</record>
+	<record>
+		<Fotonummer>2</Fotonummer>
+		<Prioriteit>hoog</Prioriteit>
+		<Inhoud>asdasd</Inhoud>
+		<Linken_aan>4</Linken_aan>
+		<Datum>1023</Datum>
+		<Opmerking>Opmerking</Opmerking>
+	</record>
+</data-set>
