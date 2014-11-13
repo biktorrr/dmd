@@ -23,6 +23,7 @@ a void:Dataset ;
                 <demarne.ttl>,
                 <gasselte.ttl>, 
 				<oldambt.ttl>,
+				<delfzijl.ttl>,
 				<termunten.ttl>.
 	
 	
