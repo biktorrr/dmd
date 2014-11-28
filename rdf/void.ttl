@@ -27,6 +27,7 @@ a void:Dataset ;
 				<wildervank.ttl>,
 				<fivelingo.ttl>,
 				<termunten.ttl>,
+				<stadgroningen.ttl>,
 				<dmd_meta.ttl>.
 	
 	

@@ -13,6 +13,18 @@ dss:hasOriginalScan
 	rdfs:subPropertyOf dcterms:hasFormat.
 	
 	
+
+<http://purl.org/collections/nl/dss/stadgroningen.ttl>
+	a prov:Entity;
+prov:wasAttributedTo dss:JurLeinenga;
+rdfs:label "inks to scans Stad Groningen" ; 
+prov:wasGeneratedBy [ a prov:Activity;
+	prov:wasAssociatedWith dss:VictorDeBoer;
+	rdfs:label "Conversion to RDF";
+	prov:used [ a prov:Entity;
+		rdfs:label "Stad Groningen Excel Fotolijsten";
+		prov:wasAttributedTo dss:JurLeinenga
+]].
 	
 <http://purl.org/collections/nl/dss/dongeradeel.ttl> 
 	a prov:Entity;
