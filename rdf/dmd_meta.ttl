@@ -1,0 +1,122 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix  rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+@prefix mdb:     <http://purl.org/collections/nl/dss/mdb/> .
+@prefix dss:     <http://purl.org/collections/nl/dss/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+dss:hasOriginalScan 
+	a rdf:Property ;
+	rdfs:label "Has scan of original muster roll" ;
+	rdfs:subPropertyOf dcterms:hasFormat.
+	
+	
+	
+<http://purl.org/collections/nl/dss/dongeradeel.ttl> 
+	a prov:Entity;
+	prov:wasAttributedTo dss:JurLeinenga;
+	rdfs:label "Links to scans Dongeradeel";
+	prov:wasGeneratedBy [ 	
+		a prov:Activity ; 
+		prov:wasAssociatedWith dss:VictorDeBoer;
+		rdfs:label "Conversion to RDF" ;
+		prov:used [
+			a prov:Entity;
+			rdfs:label "excel sheets";
+			prov:wasAttributedTo dss:JurLeinenga
+			]
+		] .
+<http://purl.org/collections/nl/dss/demarne.ttl> 	a prov:Entity;
+	prov:wasAttributedTo dss:JurLeinenga;
+	rdfs:label "Links to scans De Marne";
+	prov:wasGeneratedBy [ 	
+		a prov:Activity ; 
+		prov:wasAssociatedWith dss:VictorDeBoer;
+		rdfs:label "Conversion to RDF" ;
+		prov:used [
+			a prov:Entity;
+			rdfs:label "excel sheets";
+			prov:wasAttributedTo dss:JurLeinenga
+			]
+		] .
+		
+<http://purl.org/collections/nl/dss/gasselte.ttl> 	a prov:Entity;
+	prov:wasAttributedTo dss:JurLeinenga;
+	rdfs:label "Links to scans Gasselte";
+	prov:wasGeneratedBy [ 	
+		a prov:Activity ; 
+		prov:wasAssociatedWith dss:VictorDeBoer;
+		rdfs:label "Conversion to RDF" ;
+		prov:used [
+			a prov:Entity;
+			rdfs:label "excel sheets";
+			prov:wasAttributedTo dss:JurLeinenga
+			]
+		] .
+<http://purl.org/collections/nl/dss/oldambt.ttl> 	a prov:Entity;
+	prov:wasAttributedTo dss:JurLeinenga;
+	rdfs:label "Links to scans Oldambt";
+	prov:wasGeneratedBy [ 	
+		a prov:Activity ; 
+		prov:wasAssociatedWith dss:VictorDeBoer;
+		rdfs:label "Conversion to RDF" ;
+		prov:used [
+			a prov:Entity;
+			rdfs:label "excel sheets";
+			prov:wasAttributedTo dss:JurLeinenga
+			]
+		] .
+<http://purl.org/collections/nl/dss/delfzijl.ttl> 	a prov:Entity;
+	prov:wasAttributedTo dss:JurLeinenga;
+	rdfs:label "Links to scans Delfzijl";
+	prov:wasGeneratedBy [ 	
+		a prov:Activity ; 
+		prov:wasAssociatedWith dss:VictorDeBoer;
+		rdfs:label "Conversion to RDF" ;
+		prov:used [
+			a prov:Entity;
+			rdfs:label "excel sheets";
+			prov:wasAttributedTo dss:JurLeinenga
+			]
+		] .
+<http://purl.org/collections/nl/dss/wildervank.ttl> 	a prov:Entity;
+	prov:wasAttributedTo dss:JurLeinenga;
+	rdfs:label "Links to scans Wildervank";
+	prov:wasGeneratedBy [ 	
+		a prov:Activity ; 
+		prov:wasAssociatedWith dss:VictorDeBoer;
+		rdfs:label "Conversion to RDF" ;
+		prov:used [
+			a prov:Entity;
+			rdfs:label "excel sheets";
+			prov:wasAttributedTo dss:JurLeinenga
+			]
+		] .
+<http://purl.org/collections/nl/dss/fivelingo.ttl> 	a prov:Entity;
+	prov:wasAttributedTo dss:JurLeinenga;
+	rdfs:label "Links to scans Fivelingo";
+	prov:wasGeneratedBy [ 	
+		a prov:Activity ; 
+		prov:wasAssociatedWith dss:VictorDeBoer;
+		rdfs:label "Conversion to RDF" ;
+		prov:used [
+			a prov:Entity;
+			rdfs:label "excel sheets";
+			prov:wasAttributedTo dss:JurLeinenga
+			]
+		] .
+<http://purl.org/collections/nl/dss/termunten.ttl> 	a prov:Entity;
+	prov:wasAttributedTo dss:JurLeinenga;
+	rdfs:label "Links to scans Termunten";
+	prov:wasGeneratedBy [ 	
+		a prov:Activity ; 
+		prov:wasAssociatedWith dss:VictorDeBoer;
+		rdfs:label "Conversion to RDF" ;
+		prov:used [
+			a prov:Entity;
+			rdfs:label "excel sheets";
+			prov:wasAttributedTo dss:JurLeinenga
+			]
+		] .

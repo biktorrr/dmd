@@ -26,6 +26,7 @@ a void:Dataset ;
 				<delfzijl.ttl>,
 				<wildervank.ttl>,
 				<fivelingo.ttl>,
-				<termunten.ttl>.
+				<termunten.ttl>,
+				<dmd_meta.ttl>.
 	
 	
