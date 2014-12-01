@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE rdf:RDF [
+    <!ENTITY ns1 'http://purl.org/collections/nl/dss/'>
+    <!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+]>
+
+<rdf:RDF
+    xmlns:ns1="&ns1;"
+    xmlns:rdf="&rdf;"
+>
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1901-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0631.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0632.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1875-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0622.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1875-5">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0623.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1875-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0622.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1865-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0613.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1872-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0616.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1859-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0609.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1892-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0629.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1875-6">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0623.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1874-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0619.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1865-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0611.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1878-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0624.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1873-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0617.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1855-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0605.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1900-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0630.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1881-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0626.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1865-5">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0613.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1882-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0627.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1865-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0612.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1896-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0630.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1858-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0607.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1873-5">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0619.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1858-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0608.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1873-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0618.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1873-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0617.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1875-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0621.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1870-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0616.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1874-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0620.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1874-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0620.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1858-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0607.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1866-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0614.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1859-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0609.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1856-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0606.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1895-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0629.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1855-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0605.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1880-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0626.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1890-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0628.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1856-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0606.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1879-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0625.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1876-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0624.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1859-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0608.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1868-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0615.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1875-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0621.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1865-6">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0614.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1863-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0611.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1882-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0627.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1867-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0615.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1873-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0618.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1889-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0628.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1861-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0610.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1879-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0625.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-winschotern-1865-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/oldambt/100-0612.jpg"/>
+</rdf:Description>
+
+</rdf:RDF>

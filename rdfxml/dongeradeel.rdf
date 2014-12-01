@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE rdf:RDF [
+    <!ENTITY ns1 'http://purl.org/collections/nl/dss/'>
+    <!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+]>
+
+<rdf:RDF
+    xmlns:ns1="&ns1;"
+    xmlns:rdf="&rdf;"
+>
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-dokkun_w-1916-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2399.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2400.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2401.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-dokkun_w-1916-8">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2407.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2408.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2409.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-dokkun_w-1916-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2395.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2396.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2397.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-dokkun_w-1916-7">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2405.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2406.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2407.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-dokkun_w-1916-5">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2401.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2402.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2403.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-dokkun_w-1916-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2393.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2394.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2395.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-dokkun_w-1916-6">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2403.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2404.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2405.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-dokkun_w-1916-9">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2409.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2410.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2411.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-dokkun_w-1916-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2397.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2398.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/dongeradeel/100_2399.jpg"/>
+</rdf:Description>
+
+</rdf:RDF>

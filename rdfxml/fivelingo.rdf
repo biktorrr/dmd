@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE rdf:RDF [
+    <!ENTITY ns1 'http://purl.org/collections/nl/dss/'>
+    <!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+]>
+
+<rdf:RDF
+    xmlns:ns1="&ns1;"
+    xmlns:rdf="&rdf;"
+>
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1804-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg03.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-17">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg42.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-19">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg44.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1804-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg04.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-26">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg50.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-16">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg27.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1806-6">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg10.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-14">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg40.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-25">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg49.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-16">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg41.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-9">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg20.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg21.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg22.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-23">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg32.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg14.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1806-5">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg10.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-21">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg45.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1806-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg07.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1806-7">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg11.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg13.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-14">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg26.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-31">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg57.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-10">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg38.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-9">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg38.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-8">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg37.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-8">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg18.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg19.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg20.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg33.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-15">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg26.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-5">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg15.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-12">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg39.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1806-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg06.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1804-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg03.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg13.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg14.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-10">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg23.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-12">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg25.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-21">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg31.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1807-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg12.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-7">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg37.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1804-5">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg04.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-19">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg30.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1804-7">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg05.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1806-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg06.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-11">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg39.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-18">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg43.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-29">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg53.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg54.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg55.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-11">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg24.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1803-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg02.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-24">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg48.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg33.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1806-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg07.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-17">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg28.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-30">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg56.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-18">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg29.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1804-6">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg05.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-13">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg40.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-22">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg46.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1807-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg12.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-20">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg45.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-28">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg52.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-7">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg16.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg17.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg34.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-27">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg51.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-5">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg35.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-6">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg15.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg17.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-13">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg25.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-20">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg30.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-23">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg47.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg34.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1809-22">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg31.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1804-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg02.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gron_archfv-1810-6">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/fivelingo/fivelingo_pg36.jpg"/>
+</rdf:Description>
+
+</rdf:RDF>

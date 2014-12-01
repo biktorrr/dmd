@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE rdf:RDF [
+    <!ENTITY dcterms 'http://purl.org/dc/terms/'>
+    <!ENTITY ns1 'http://purl.org/collections/nl/dss/'>
+    <!ENTITY prov 'http://www.w3.org/ns/prov#'>
+    <!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+    <!ENTITY rdfs 'http://www.w3.org/2000/01/rdf-schema#'>
+]>
+
+<rdf:RDF
+    xmlns:dcterms="&dcterms;"
+    xmlns:ns1="&ns1;"
+    xmlns:prov="&prov;"
+    xmlns:rdf="&rdf;"
+    xmlns:rdfs="&rdfs;"
+>
+<prov:Entity rdf:about="&ns1;fivelingo.ttl"
+    rdfs:label="Links to scans Fivelingo">
+  <prov:wasAttributedTo rdf:resource="&ns1;JurLeinenga"/>
+  <prov:wasGeneratedBy>
+    <prov:Activity
+        rdfs:label="Conversion to RDF">
+      <prov:used>
+        <prov:Entity
+            rdfs:label="excel sheets">
+          <prov:wasAttributedTo rdf:resource="&ns1;JurLeinenga"/>
+        </prov:Entity>
+      </prov:used>
+      <prov:wasAssociatedWith rdf:resource="&ns1;VictorDeBoer"/>
+    </prov:Activity>
+  </prov:wasGeneratedBy>
+</prov:Entity>
+
+<prov:Entity rdf:about="&ns1;oldambt.ttl"
+    rdfs:label="Links to scans Oldambt">
+  <prov:wasAttributedTo rdf:resource="&ns1;JurLeinenga"/>
+  <prov:wasGeneratedBy>
+    <prov:Activity
+        rdfs:label="Conversion to RDF">
+      <prov:used>
+        <prov:Entity
+            rdfs:label="excel sheets">
+          <prov:wasAttributedTo rdf:resource="&ns1;JurLeinenga"/>
+        </prov:Entity>
+      </prov:used>
+      <prov:wasAssociatedWith rdf:resource="&ns1;VictorDeBoer"/>
+    </prov:Activity>
+  </prov:wasGeneratedBy>
+</prov:Entity>
+
+<prov:Entity rdf:about="&ns1;stadgroningen.ttl"
+    rdfs:label="inks to scans Stad Groningen">
+  <prov:wasAttributedTo rdf:resource="&ns1;JurLeinenga"/>
+  <prov:wasGeneratedBy>
+    <prov:Activity
+        rdfs:label="Conversion to RDF">
+      <prov:used>
+        <prov:Entity
+            rdfs:label="Stad Groningen Excel Fotolijsten">
+          <prov:wasAttributedTo rdf:resource="&ns1;JurLeinenga"/>
+        </prov:Entity>
+      </prov:used>
+      <prov:wasAssociatedWith rdf:resource="&ns1;VictorDeBoer"/>
+    </prov:Activity>
+  </prov:wasGeneratedBy>
+</prov:Entity>
+
+<prov:Entity rdf:about="&ns1;demarne.ttl"
+    rdfs:label="Links to scans De Marne">
+  <prov:wasAttributedTo rdf:resource="&ns1;JurLeinenga"/>
+  <prov:wasGeneratedBy>
+    <prov:Activity
+        rdfs:label="Conversion to RDF">
+      <prov:used>
+        <prov:Entity
+            rdfs:label="excel sheets">
+          <prov:wasAttributedTo rdf:resource="&ns1;JurLeinenga"/>
+        </prov:Entity>
+      </prov:used>
+      <prov:wasAssociatedWith rdf:resource="&ns1;VictorDeBoer"/>
+    </prov:Activity>
+  </prov:wasGeneratedBy>
+</prov:Entity>
+
+<prov:Entity rdf:about="&ns1;delfzijl.ttl"
+    rdfs:label="Links to scans Delfzijl">
+  <prov:wasAttributedTo rdf:resource="&ns1;JurLeinenga"/>
+  <prov:wasGeneratedBy>
+    <prov:Activity
+        rdfs:label="Conversion to RDF">
+      <prov:used>
+        <prov:Entity
+            rdfs:label="excel sheets">
+          <prov:wasAttributedTo rdf:resource="&ns1;JurLeinenga"/>
+        </prov:Entity>
+      </prov:used>
+      <prov:wasAssociatedWith rdf:resource="&ns1;VictorDeBoer"/>
+    </prov:Activity>
+  </prov:wasGeneratedBy>
+</prov:Entity>
+
+<prov:Entity rdf:about="&ns1;termunten.ttl"
+    rdfs:label="Links to scans Termunten">
+  <prov:wasAttributedTo rdf:resource="&ns1;JurLeinenga"/>
+  <prov:wasGeneratedBy>
+    <prov:Activity
+        rdfs:label="Conversion to RDF">
+      <prov:used>
+        <prov:Entity
+            rdfs:label="excel sheets">
+          <prov:wasAttributedTo rdf:resource="&ns1;JurLeinenga"/>
+        </prov:Entity>
+      </prov:used>
+      <prov:wasAssociatedWith rdf:resource="&ns1;VictorDeBoer"/>
+    </prov:Activity>
+  </prov:wasGeneratedBy>
+</prov:Entity>
+
+<prov:Entity rdf:about="&ns1;dongeradeel.ttl"
+    rdfs:label="Links to scans Dongeradeel">
+  <prov:wasAttributedTo rdf:resource="&ns1;JurLeinenga"/>
+  <prov:wasGeneratedBy>
+    <prov:Activity
+        rdfs:label="Conversion to RDF">
+      <prov:used>
+        <prov:Entity
+            rdfs:label="excel sheets">
+          <prov:wasAttributedTo rdf:resource="&ns1;JurLeinenga"/>
+        </prov:Entity>
+      </prov:used>
+      <prov:wasAssociatedWith rdf:resource="&ns1;VictorDeBoer"/>
+    </prov:Activity>
+  </prov:wasGeneratedBy>
+</prov:Entity>
+
+<rdf:Property rdf:about="&ns1;hasOriginalScan"
+    rdfs:label="Has scan of original muster roll">
+  <rdfs:subPropertyOf rdf:resource="&dcterms;hasFormat"/>
+</rdf:Property>
+
+<prov:Entity rdf:about="&ns1;gasselte.ttl"
+    rdfs:label="Links to scans Gasselte">
+  <prov:wasAttributedTo rdf:resource="&ns1;JurLeinenga"/>
+  <prov:wasGeneratedBy>
+    <prov:Activity
+        rdfs:label="Conversion to RDF">
+      <prov:used>
+        <prov:Entity
+            rdfs:label="excel sheets">
+          <prov:wasAttributedTo rdf:resource="&ns1;JurLeinenga"/>
+        </prov:Entity>
+      </prov:used>
+      <prov:wasAssociatedWith rdf:resource="&ns1;VictorDeBoer"/>
+    </prov:Activity>
+  </prov:wasGeneratedBy>
+</prov:Entity>
+
+<prov:Entity rdf:about="&ns1;wildervank.ttl"
+    rdfs:label="Links to scans Wildervank">
+  <prov:wasAttributedTo rdf:resource="&ns1;JurLeinenga"/>
+  <prov:wasGeneratedBy>
+    <prov:Activity
+        rdfs:label="Conversion to RDF">
+      <prov:used>
+        <prov:Entity
+            rdfs:label="excel sheets">
+          <prov:wasAttributedTo rdf:resource="&ns1;JurLeinenga"/>
+        </prov:Entity>
+      </prov:used>
+      <prov:wasAssociatedWith rdf:resource="&ns1;VictorDeBoer"/>
+    </prov:Activity>
+  </prov:wasGeneratedBy>
+</prov:Entity>
+
+</rdf:RDF>

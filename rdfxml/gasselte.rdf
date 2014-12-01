@@ -1,0 +1,1056 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE rdf:RDF [
+    <!ENTITY ns1 'http://purl.org/collections/nl/dss/'>
+    <!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+]>
+
+<rdf:RDF
+    xmlns:ns1="&ns1;"
+    xmlns:rdf="&rdf;"
+>
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1906-11">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6934.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6935.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1915-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7225.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7226.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1908-15a">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6998.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6999.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1914-15">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7218.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7219.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-7">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7019.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7020.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-5">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7015.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7016.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1913-13">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7185.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7186.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-20">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7045.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7046.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1914-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7192.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7193.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1915-5">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7231.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7232.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1908-8">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6984.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6985.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1911-10">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7107.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7108.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1910-5">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7058.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7059.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1910-7">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7062.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7063.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1905-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6897.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6898.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1911-8">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7103.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7104.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-14">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7142.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7143.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-11">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7136.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7137.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1908-14">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6996.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6997.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1914-8">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7204.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7205.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1913-10">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7179.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7180.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1904-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6880.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6881.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1934-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7293.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7294.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1910-11">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7070.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7071.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1910-18">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7086.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7087.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-8">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7130.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7131.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-8">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7021.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7022.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1904-7">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6888.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6889.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1914-7">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7202.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7203.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-11">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7027.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7028.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1915-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7227.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7228.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1937-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7301.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7302.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7013.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7014.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1914-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7194.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7195.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1913-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7165.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7166.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1932-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7290.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7291.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1906-12">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6936.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6937.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1903-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6869.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6870.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-21">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7047.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7048.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1905-5">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6901.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6902.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1916-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7242.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7243.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-7">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7128.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7129.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1906-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6916.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6917.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1908-17">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7004.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7005.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1916-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7246.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7247.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1911-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7091.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7092.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-21">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7156.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7157.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1908-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6974.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6975.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1907-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6945.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6946.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1910-16">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7082.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7083.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1907-9">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6955.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6956.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1908-12">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6992.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6993.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1926-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7272.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7273.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1905-9">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6909.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6910.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-9">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7132.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7133.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-16">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7146.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7147.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1907-5">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6947.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6948.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-6">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7126.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7127.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1911-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7089.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7090.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1907-13">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6963.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6964.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1913-7">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7171.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7172.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1911-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7095.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7096.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1908-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6970.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6971.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1904-8">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6890.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6891.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1911-13">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7113.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7114.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1910-6">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7060.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7061.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1907-11">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6959.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6960.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1919-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7249.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7250.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1905-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6895.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6896.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1908-11">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6990.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6991.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1903-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6871.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6872.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1913-12">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7183.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7184.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7011.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7012.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1911-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7093.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7094.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1913-9a">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7175.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7176.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1913-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7163.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7164.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1914-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7190.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7191.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-19">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7152.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7153.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1913-5">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7167.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7168.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1905-10">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6911.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6912.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-15">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7144.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7145.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1902-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6864.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6865.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1925-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7269.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7270.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1908-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6972.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6973.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1904-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6876.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6877.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1908-7">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6982.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6983.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1915-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7229.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7230.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1906-6">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6924.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6925.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1914-12">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7212.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7213.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1905-6">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6903.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6904.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1916-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7240.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7241.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1907-7">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6951.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6952.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1928-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7282.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7283.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1904-6">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6886.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6887.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1907-6">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6949.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6950.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1937-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7303.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7304.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1906-5">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6922.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6923.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-19">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7043.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7044.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1910-13">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7074.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7075.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-15">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7035.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7036.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1903-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6873.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6874.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1910-15b">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7080.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7081.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1911-5">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7097.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7098.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1905-7">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6905.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6906.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1905-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6899.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6900.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1910-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7052.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7053.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7120.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7121.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-6">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7017.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7018.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7118.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7119.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1910-9">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7066.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7067.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1908-15b">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7000.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7001.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1929-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7285.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7286.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1910-14">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7076.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7077.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1910-12">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7072.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7073.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-14">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7033.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7034.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1913-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7159.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7160.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1916-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7244.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7245.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-20">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7154.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7155.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1932-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7288.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7289.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1907-8">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6953.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6954.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1921-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7257.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7258.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1914-11">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7210.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7211.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-10">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7134.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7135.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1910-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7054.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7055.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-9">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7023.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7024.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1906-10">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6932.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6933.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1906-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6920.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6921.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1935-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7296.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7297.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-12">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7029.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7030.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1911-6">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7099.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7100.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1906-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6918.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6919.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1904-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6878.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6879.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1920-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7254.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7255.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1907-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6941.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6942.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1914-16">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7220.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7221.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1908-9">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6986.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6987.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1913-6">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7169.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7170.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-10">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7025.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7026.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1905-8">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6907.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6908.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1915-8">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7237.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7238.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1914-13">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7214.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7215.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1913-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7161.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7162.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1927-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7277.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7278.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1910-15a">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7078.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7079.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1914-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7196.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7197.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1908-13">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6994.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6995.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1907-10">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6957.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6958.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1935-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7298.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7299.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-17">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7148.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7149.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-5">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7124.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7125.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1910-10">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7068.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7069.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1914-5">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7198.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7199.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1911-9">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7105.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7106.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7116.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7117.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1904-5">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6884.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6885.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1911-7">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7101.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7102.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1911-11">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7109.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7110.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1921-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7259.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7260.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1902-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6862.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6863.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1903-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6867.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6868.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1925-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7267.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7268.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1902-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6860.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6861.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1920-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7252.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7253.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1913-14">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7187.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7188.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1910-8">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7064.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7065.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-18">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7041.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7042.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-16">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7037.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7038.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1913-9b">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7177.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7178.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1908-6">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6980.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6981.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1905-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6893.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6894.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1921-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7261.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7262.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1907-14">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6965.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6966.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1915-7">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7235.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7236.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1907-12">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6961.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6962.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1927-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7275.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7276.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1915-6">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7233.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7234.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1906-7">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6926.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6927.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1908-5">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6978.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6979.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1913-11">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7181.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7182.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1914-6">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7200.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7201.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1914-14">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7216.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7217.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7007.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7008.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-18">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7150.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7151.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1907-3">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6943.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6944.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1924-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7264.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7265.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1915-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7223.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7224.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1911-12">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7111.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7112.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1928-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7280.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7281.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1907-15">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6967.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6968.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7122.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7123.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1914-10">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7208.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7209.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-17">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7039.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7040.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1908-10">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6988.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6989.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1910-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7056.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7057.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-13">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7140.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7141.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-13">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7031.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7032.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1913-8">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7173.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7174.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1907-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6939.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6940.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1906-8">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6928.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6929.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1904-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6882.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6883.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1910-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7050.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7051.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1906-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6914.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6915.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1909-2">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7009.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7010.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1912-12">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7138.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7139.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1908-16">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7002.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7003.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1906-9">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6930.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6931.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1910-17">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7084.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7085.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1908-4">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6976.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_6977.jpg"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-gasselte-1914-9">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7206.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/gasselte/100_7207.jpg"/>
+</rdf:Description>
+
+</rdf:RDF>

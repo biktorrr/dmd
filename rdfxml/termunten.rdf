@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE rdf:RDF [
+    <!ENTITY ns1 'http://purl.org/collections/nl/dss/'>
+    <!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+]>
+
+<rdf:RDF
+    xmlns:ns1="&ns1;"
+    xmlns:rdf="&rdf;"
+>
+<rdf:Description rdf:about="&ns1;mdb/aanmonstering-delfzijl_term-1874-1">
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/termunten/100_8012.jpg"/>
+  <ns1:hasOriginalScan rdf:resource="http://dmd.ops.labs.vu.nl/termunten/100_8013.jpg"/>
+</rdf:Description>
+
+</rdf:RDF>
